@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+
+.instagram,.twitter,.facebook,.pinterest,.google,.github{
+    background-color: whitesmoke;
+    padding: 50px 10px;
+    margin:30px 10px
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 1px solid blue ;
+}
+.box{
+    padding: 60px 0px;
+}
